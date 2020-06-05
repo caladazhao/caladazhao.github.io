@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日誌 on calada</title>
+    <link>https://caladazhao.github.io/categories/%E6%97%A5%E8%AA%8C/</link>
+    <description>Recent content in 日誌 on calada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 03 Jun 2020 15:07:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://caladazhao.github.io/categories/%E6%97%A5%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>融融</title>
+      <link>https://caladazhao.github.io/blog/test/</link>
+      <pubDate>Wed, 03 Jun 2020 15:07:00 +0800</pubDate>
+      
+      <guid>https://caladazhao.github.io/blog/test/</guid>
+      <description>榮   Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
+    </item>
+    
+  </channel>
+</rss>
